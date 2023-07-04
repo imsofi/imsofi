@@ -2,23 +2,10 @@
 
 This is my old handle, to find where I am now go to my new handle here: [github.com/soupglasses](https://github.com/soupglasses)
 
-#### Why does this exist?
+<details>
+  <summary><b>Why does this account exist?</b></summary>
 
-[Repojacking](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/) is currently a huge issue plauging GitHub, where if you rename an account or organization, a bad actor can reuse your old handle to effectively un-create all redirects to your new account.
-
-For this, I have created this account as a sort of landing page, to beat out any bad actors from attempting a repojack of any of my repositories.
-
-<!--
-**imsofi/imsofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [Repojacking](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/) is currently a huge issue plauging GitHub, where if you rename an account or organization, a bad actor can reuse your old handle to effectively un-create all redirects to your new account.
+  
+  For this, I have created this account as a sort of landing page, to beat out any bad actors from attempting a repojack of any of my repositories.
+</details>
