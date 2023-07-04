@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sofi
 
-This is my old handle, to find where I am now go to my new handle here: [github.com/soupglasses](https://github.com/soupglasses)
+This is my old handle. To find where I am now, please follow this link: [github.com/soupglasses](https://github.com/soupglasses)
 
 <details>
   <summary><b>Why does this account exist?</b></summary>
